@@ -1,4 +1,4 @@
-# Covid Deaths & Vaccinations Portfolio Project
+# Covid Deaths & Vaccinations 
 
 
 This project focuses on **exploring and analyzing COVID-19 deaths and vaccination trends** across various countries using **SQL**.
