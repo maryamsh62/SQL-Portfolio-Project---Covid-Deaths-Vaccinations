@@ -40,5 +40,5 @@ It demonstrates my ability to:
 
 ## Visualization
 
-[TableauPublic](https://public.tableau.com/app/profile/maryamsadat.shakeri/vizzes) 
+[TableauPublic](https://public.tableau.com/app/profile/maryamsadat.shakeri/viz/Covidinfection20-21/Dashboard1) 
 
