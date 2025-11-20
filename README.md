@@ -1,7 +1,7 @@
 # Covid Deaths & Vaccinations Portfolio Project
 
 
-This project is part of my data analytics portfolio, focusing on **exploring and analyzing COVID-19 deaths and vaccination trends** across various countries using **SQL**.
+This project is focusing on **exploring and analyzing COVID-19 deaths and vaccination trends** across various countries using **SQL**.
 
 It demonstrates my ability to:
 - Work with real-world datasets
@@ -39,6 +39,9 @@ It demonstrates my ability to:
 
 
 ## Visualization
+
+[Covid Infection 20-21 Visualization](https://github.com/maryamsh62/Covid-Deaths-Vaccinations-Portfolio-Project/blob/main/Covid%20Infection%2020-21.png)
+
 
 [TableauPublic](https://public.tableau.com/app/profile/maryamsadat.shakeri/viz/Covidinfection20-21/Dashboard1) 
 
